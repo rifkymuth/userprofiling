@@ -1,0 +1,15 @@
+pyproject-toml
+Flask
+numpy
+pandas
+nltk
+sastrawi
+beautifulsoup4
+unidecode
+transformers
+scikit-learn
+bertopic
+bertopic[flair, gensim, spacy, use]
+gensim
+torch
+gunicorn
